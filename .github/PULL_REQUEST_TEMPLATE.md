@@ -1,3 +1,5 @@
+<!-- (Copilot Review への依頼: レビューコメントは日本語で記載してください -->
+
 <!--
 # フロントエンドの参考PR
 https://github.com/ASMA-Inc/ai-career-frontend/pull/294
